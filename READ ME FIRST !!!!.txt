@@ -1,4 +1,7 @@
+SIMPLE MOVIE TICKET BOOKING SYSTEM IN C PROGRAMMING
 
+
+**Developed By Awahab**
 
 ***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
 
@@ -6,9 +9,8 @@
 ***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
 
 
-***** FOR MORE PROJECTS :- https://code-projects.org/c/project/ *****
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
 
 
 
-
-THANK YOU FOR DOWNLOADING :) 
+#THANK YOU FOR DOWNLOADING
